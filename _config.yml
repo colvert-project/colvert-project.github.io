@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 #remote_theme: THEME-NAME
 title: Colvert
 description: A tool to manage your detection use cases portfolio
+logo: https://raw.githubusercontent.com/colvert-project/colvert/main/rsc/logo/colvert_square_512px.png
